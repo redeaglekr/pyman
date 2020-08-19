@@ -1,8 +1,6 @@
 ##This is a program written for plotting analytical(Theoretical) Light curve using Mandel and Agol
 ##This can accomodate Linear limb darkening
 ###This uses all 11 conditions of table 1 in the paper
-import sys
-sys.path.append("/home/sreenivasan/cusat/project/codes")
 from hypergeometric import Ns,Ms
 from keplermodel import Zlist
 from math import *
