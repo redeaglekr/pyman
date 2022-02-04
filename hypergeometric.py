@@ -50,7 +50,7 @@ def elik(k):
     return [ek,kk]
 
 
-##Note that I the Appells  and Gauss Hypergeometric functions are calculated using Sympy
+##Note that  the Appells  and Gauss Hypergeometric functions are calculated using Sympy
     
 
 
